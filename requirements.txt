@@ -1,8 +1,8 @@
-streamlit
-nltk
-pandas
-scikit-learn
-numpy
 altair
-sklearn
+pandas
+streamlit
+scikit-learn==1.3.2
+joblib
 matplotlib
+streamlit_option_menu
+seaborn
