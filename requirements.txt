@@ -3,3 +3,6 @@ nltk
 pandas
 scikit-learn
 numpy
+altair
+sklearn
+matplotlib
