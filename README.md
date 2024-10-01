@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# 💻 NLP Project - Mental Illness Detection with Sentiment Analysis
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://blank-app-template.streamlit.app/](https://mental-illness-detection-nlp.streamlit.app/))
 
 ### How to run it on your own machine
 
