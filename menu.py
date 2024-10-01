@@ -1,7 +1,6 @@
 import streamlit as st
 from homepage import home
 from eda_page import eda
-from preprocessing_page import preprocessing
 from training_page import training
 from training_ann import training_ann
 from streamlit_option_menu import option_menu
